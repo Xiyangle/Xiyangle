@@ -1,2 +1,2 @@
 payload:
-  - '+.lingyaoauto.com'
+  - 'wmes.lingyaoauto.com'
