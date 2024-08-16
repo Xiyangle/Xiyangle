@@ -1,2 +1,2 @@
 payload:
-  - 'lingyaoauto.com'
+  - '+.lingyaoauto.com'
