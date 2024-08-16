@@ -1,2 +1,3 @@
 payload:
   - '+.lingyaoauto.com'
+  - '+.eu.org'
