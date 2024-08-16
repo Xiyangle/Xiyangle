@@ -1,2 +1,3 @@
-DOMAIN-SUFFIX,lingyaoauto.com
-DOMAIN-SUFFIX,eu.org
+payload:
+- DOMAIN-SUFFIX,lingyaoauto.com
+- DOMAIN-SUFFIX,eu.org
