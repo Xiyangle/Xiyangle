@@ -1,0 +1,3 @@
+payload:
+  - '+.aaao.eu.org'
+  - '+.xiyangle.eu.org'
